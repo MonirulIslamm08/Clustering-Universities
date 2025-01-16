@@ -1,4 +1,3 @@
-
 # Clustering Universities: Private vs. Public
 
 This project explores the use of **KMeans Clustering** to group universities into two categories: **Private** and **Public**. It demonstrates the application of clustering techniques, data preprocessing, visualization, and evaluation using Python libraries like `pandas`, `seaborn`, and `scikit-learn`.
